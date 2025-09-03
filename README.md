@@ -17,4 +17,4 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 ## Visuals
 - [Video Game Sales Trends - 2000-2020](console_usage.png)
 - [Top 5 Selling Genres - Bar Chart](genre_analysis.png)
-- []()  
+- [Console Usage Comparison - Pie Chart](console_usage.png)  
