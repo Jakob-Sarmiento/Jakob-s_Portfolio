@@ -5,7 +5,7 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 
 ###
 ## Data Cleaning Using Python
-- [Data Cleaning](01_vgchartz_datacleaning.ipynb)
+- [Vgchartz Data Cleaning](01_vgchartz_datacleaning.ipynb)
 
 ## SQL Queries 
 - [NA Sales by Genre](sql/03_na_sales_by_genre.sql)
