@@ -1,5 +1,4 @@
-# Video Game Sales Analyis for NA Markets
+# 🎮 Video Game Sales & Market Trends  
 
-##Overview
-
-This project highlights sales data using Python, SQL, and Tableau. The technologies used were Google Colab, BigQuery Console, and the Tableau application. 
+## 📌 Overview  
+This project analyzes video game sales data using SQL, Python, and Tableau.  
