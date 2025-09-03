@@ -5,10 +5,11 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 
 ###
 ## Data Cleaning Using Python
-- [Vgchartz Data Cleaning](01_vgchartz_datacleaning.ipynb)
+- [Data Cleaning Videogame Dataset](01_vgchartz_datacleaning.ipynb)
 
 ## SQL Queries 
-- [NA Sales by Genre](sql/03_na_sales_by_genre.sql)
-- [NA Sales by Title](sql/04_na_sales_by_titles.sql)
-- 
-
+- [Top 5 Highest Selling Genres in NA](sql/03_na_sales_by_genre.sql)
+- [Top 10 Highest Selling Video Games in NA](sql/04_na_sales_by_titles.sql)
+- [Top 5 Video Game Publishers in NA](sql/05_na_sales_by_publishers.sql)
+- [NA Video Game Sales Increase/Decrease - 2000-2020](sql/06_na_sales_inc_dec.sql)
+- [Console Comparison in NA](sql/07_na_sales_by_console.sql)
