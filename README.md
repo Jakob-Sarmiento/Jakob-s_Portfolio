@@ -13,3 +13,5 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 - [Top 5 Video Game Publishers in NA](sql/05_na_sales_by_publishers.sql)
 - [NA Video Game Sales Increase/Decrease - 2000-2020](sql/06_na_sales_inc_dec.sql)
 - [Console Comparison in NA](sql/07_na_sales_by_console.sql)
+
+### Visuals
