@@ -1,9 +1,25 @@
-Video Game Market Sales (NA Market) 
-
-## Project Analysis
-From the 1970s to today, video games have grown into a global industry generating millions of sales each year. With advancing technology and an expanding consumer base, North America has emerged as one of the most competitive and profitable markets. For publishers, the challenge lies in deciding which genres and platforms to prioritize to gain an edge. This project analyzes video game sales data and market trends in North America to provide insights that can help publishers identify opportunities, optimize strategies, and focus their efforts on where they matter the most. 
-
-## Data Used 
-
-
-
+project-name/
+│
+├── notebooks/          # Colab notebooks
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_sql_queries_in_colab.ipynb
+│   └── 03_visualizations.ipynb
+│
+├── sql/                # BigQuery queries
+│   ├── 01_na_sales_by_platform.sql
+│   ├── 02_top_publishers_global.sql
+│   ├── 03_genre_trends.sql
+│   └── 04_console_comparison.sql
+│
+├── visuals/            # Tableau/Python screenshots
+│   ├── na_sales_trends.png
+│   ├── platform_comparison.png
+│   └── top_publishers.png
+│
+├── reports/            # Final reports
+│   ├── final_presentation.pdf
+│   └── analysis_summary.md
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
