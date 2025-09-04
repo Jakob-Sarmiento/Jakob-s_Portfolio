@@ -20,5 +20,9 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 - [Console Usage Comparison - Pie Chart](console_usage.png)
 - [Interactive Tableau Dashboard (Including All Visuals)](https://public.tableau.com/app/profile/jakob.sarmiento8572/viz/VideoGameAnalystProject1Extract/Dashboard1)
 
-## Final Sales Analysis
-- [Final Sales Analysis (Findings + Recommendations)]((https://docs.google.com/document/d/1r2ORnai-OrbSZpbHYqAJU1Lqe1Ep_gToO6oUWbfvfTk/edit?usp=sharing))
+## Visuals
+- [Video Game Sales Trends - 2000-2020](console_usage.png)
+- [Top 5 Selling Genres - Bar Chart](genre_analysis.png)
+- [Console Usage Comparison - Pie Chart](console_usage.png)
+- [Interactive Tableau Dashboard (Including All Visuals)](https://public.tableau.com/app/profile/jakob.sarmiento8572/viz/VideoGameAnalystProject1Extract/Dashboard1)
+
