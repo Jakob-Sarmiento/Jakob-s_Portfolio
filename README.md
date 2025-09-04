@@ -21,4 +21,4 @@ This project analyzes video game sales data using SQL, Python, and Tableau. The 
 - [Interactive Tableau Dashboard (Including All Visuals)](https://public.tableau.com/app/profile/jakob.sarmiento8572/viz/VideoGameAnalystProject1Extract/Dashboard1)
 
 ## Final Sales Analysis
-- [Final Sales Analysis (Findings + Recommendations)](Video Games Sales Analysis (1).pdf)
+- [Final Sales Analysis (Findings + Recommendations)]((https://docs.google.com/document/d/1r2ORnai-OrbSZpbHYqAJU1Lqe1Ep_gToO6oUWbfvfTk/edit?usp=sharing))
